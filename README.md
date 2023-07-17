@@ -8,7 +8,7 @@
 <p><h4>apt install python python2<br>
 apt install php<br>
 apt install git<br></p></h4>
-<p><h4>git clone https://github.com/Ronpogi15/Facebook-phishing<br>
+<p><h4>git clone https://github.com/Crypt-tors/Facebook-phishing<br>
 cd Facebook-phising<br>
 </h4></p>
 <hr>
